@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarAbhi23
 - 👀 I’m interested in  development and problem sloving 
-- 🌱 I’m currently learning ... React 
+- 🌱 I’m data engineer
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ... kumar.abhishekpal23@gmail.com
 - 😄 Pronouns: ...
